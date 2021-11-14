@@ -1,0 +1,14 @@
+{
+    "socket" : {
+        "host": "127.0.0.1",
+        "port": 50002
+    },
+
+    "mysql": {
+        "host": "127.0.0.1",
+        "user": "root",
+        "password": "apmsetup",
+        "db": "net_rmxp_project",
+        "charset": "utf8"
+    }
+}
